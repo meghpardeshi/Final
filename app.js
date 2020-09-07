@@ -1,6 +1,6 @@
 /**
  * @fileoverview Server main file
- * @author Jithin Zachari
+ * @author Jithin Zachar
  * 
  * @changelog
  * - 0.0.1
